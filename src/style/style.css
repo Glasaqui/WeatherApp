@@ -16,8 +16,8 @@
 
 .container{
   position: relative;
-  width: 600px;
-  height: 805px;
+  width: 400px;
+  height: 105px;
   background: #fff;
   padding: 28px 32px;
   overflow: hidden;
@@ -174,7 +174,7 @@ font-size: 1.5rem;
   opacity: 0;
 }
 
-.fade-in{
+.fade-In{
   animation: 0.5s fade-In forwards;
   animation-delay: 0.5s;
 }
